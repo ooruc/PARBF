@@ -3,7 +3,7 @@
 Ömer Oruç
 Created on May 2024
 python codes of problem 1 
-generates results of Table 2 and 3, fro Rr = 3.5
+generates results of Table 2 and 3, for radius Rr = 3.5
 """
 
 import matplotlib.pyplot  as plt
